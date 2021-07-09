@@ -1,3 +1,7 @@
+//Day-3 JS Essentials Assignment 2 By Yash Rawat
+
+// Print Fizz Buzz Program without using mod
+
 for (i=1; i<=100; i++)
 {
   a = i / 15
